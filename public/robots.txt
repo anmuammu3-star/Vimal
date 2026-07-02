@@ -1,0 +1,9 @@
+# Robots.txt for Sakrix Digital Marketing Agency
+User-agent: *
+Allow: /
+
+# Exclude private backend or staging areas
+Disallow: /admin/
+Disallow: /staging/
+
+Sitemap: https://sakrix.com/sitemap.xml
